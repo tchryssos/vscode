@@ -1,0 +1,20 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "selection",
+    "editor.insertSpaces": false,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 90,
+    "editor.tabCompletion": "on",
+    "workbench.editor.closeOnFileDelete": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.revealIfOpen": true,
+    "window.title": "“${activeEditorMedium}${separator}${rootName}”,",
+    "window.zoomLevel": 1,
+    "explorer.confirmDelete": false,
+    "editor.scrollBeyondLastLine": false,
+    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true
+}
